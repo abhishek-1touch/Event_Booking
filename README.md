@@ -27,7 +27,7 @@ A scalable event booking platform supporting real-time seat locking, secure paym
 
 📎 **See HLD Diagram**  
 📎 Included in: `Event-booking-architecture`  
-🔗 [View HLD Diagram on Google Drive](https://drive.google.com/file/d/1yQp1ugqBzNv2nlUavyYKQ26XiH-Hb9Qy/view?usp=sharing)
+🔗 [View HLD Diagram on Google Drive](https://docs.google.com/document/d/1vSIqoUuFwr4OREgVM6hKahGdrzXW1R2g3QOUYV5d6X8/edit?usp=sharing)
 
 ---
 
