@@ -26,7 +26,8 @@ A scalable event booking platform supporting real-time seat locking, secure paym
 - Deployment-ready via Docker and Kubernetes
 
 📎 **See HLD Diagram**  
-Included in: `Event-booking-architecture` [↗️ open in canvas]
+📎 Included in: `Event-booking-architecture`  
+🔗 [View HLD Diagram on Google Drive](https://drive.google.com/file/d/1yQp1ugqBzNv2nlUavyYKQ26XiH-Hb9Qy/view?usp=sharing)
 
 ---
 
