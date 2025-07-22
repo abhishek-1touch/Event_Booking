@@ -4,7 +4,7 @@ import cors from 'cors';
 import helmet from 'helmet';
 import rateLimit from 'express-rate-limit';
 import connectDB from './config/db.js';
-// import authRoutes from './routes/authRoutes.js';
+import authRoutes from './routes/index.js';
 
 dotenv.config();
 connectDB();
@@ -18,7 +18,7 @@ app.use(helmet());
 app.use(rateLimit({ windowMs: 1 * 60 * 1000, max: 100 }));
 
 // Routes
-// app.use('/api/auth', authRoutes);
+app.use('/api', authRoutes);
 
 // Health Check
 app.get('/', (req, res) => {
